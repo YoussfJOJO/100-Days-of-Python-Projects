@@ -1,0 +1,11 @@
+Data = [{'Series_Name': 'Breaking Bad', 'Rate': 9.5},
+        {'Series_Name': 'Succession', 'Rate': 8.8},
+        {'Series_Name': 'The Sopranos', 'Rate': 9.2},
+        {'Series_Name': 'The Office', 'Rate': 9.0},
+        {'Series_Name': 'Pride and Prejudice', 'Rate': 8.9},
+        {'Series_Name': 'Twin Peaks', 'Rate': 8.7},
+        {'Series_Name': 'The Boys', 'Rate': 8.6},
+        {'Series_Name': 'Shōgun', 'Rate': 8.5},
+        {'Series_Name': 'The Queens Gambit', 'Rate': 8.4},
+        {'Series_Name': 'The Walking Dead', 'Rate': 8.1},
+        {'Series_Name': 'Squid Game', 'Rate': 8.0}]
